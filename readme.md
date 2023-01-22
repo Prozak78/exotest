@@ -1,2 +1,2 @@
 # Project exotest
-Description of project.
+EXO nodeJS test.
